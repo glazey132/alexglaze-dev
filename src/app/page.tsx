@@ -211,7 +211,7 @@ export default function Home() {
                 Most agencies move slow and charge for it. I work solo — which
                 means fewer handoffs, faster decisions, and direct communication
                 with the person actually building your product. I bring
-                mid-to-senior engineering experience and the latest AI tools to
+                senior engineering experience and the latest AI tools to
                 every project.
               </p>
               <a

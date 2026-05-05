@@ -21,7 +21,7 @@ export default function AboutPage() {
 
             <div className="space-y-6 text-lg leading-relaxed text-text-secondary">
               <p>
-                I&apos;m a mid-to-senior software engineer with a focus on building web
+                I&apos;m a senior software engineer with a focus on building web
                 products that are fast, clean, and maintainable. I&apos;ve spent years
                 working across the stack — from React frontends to Node APIs to cloud
                 infrastructure — and I bring that breadth to every project I take on.
