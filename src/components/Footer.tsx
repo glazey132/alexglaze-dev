@@ -10,10 +10,10 @@ export default function Footer() {
           </div>
           <div className="text-text-muted text-sm">
             <Link
-              href="mailto:alex@alexglaze.dev"
+              href="mailto:alglaze132@gmail.com"
               className="hover:text-text-primary transition-colors duration-200"
             >
-              alex@alexglaze.dev
+              alglaze132@gmail.com
             </Link>
           </div>
         </div>

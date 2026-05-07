@@ -112,8 +112,8 @@ export default function ContactPage() {
           </p>
           <p className="text-text-secondary">
             Or email me directly at{' '}
-            <a href="mailto:alex@alexglaze.dev" className="text-violet-400 hover:text-violet-300 transition-colors duration-200">
-              alex@alexglaze.dev
+            <a href="mailto:alglaze132@gmail.com" className="text-violet-400 hover:text-violet-300 transition-colors duration-200">
+              alglaze132@gmail.com
             </a>
           </p>
         </div>
@@ -316,8 +316,8 @@ export default function ContactPage() {
               {status === 'error' && (
                 <div className="text-center py-4 px-6 bg-red-500/10 border border-red-500/30 rounded-lg">
                   <p className="text-red-400 mb-2">Something went wrong. Try emailing directly at</p>
-                  <a href="mailto:alex@alexglaze.dev" className="text-violet-400 hover:text-violet-300 font-medium">
-                    alex@alexglaze.dev
+                  <a href="mailto:alglaze132@gmail.com" className="text-violet-400 hover:text-violet-300 font-medium">
+                    alglaze132@gmail.com
                   </a>
                 </div>
               )}
